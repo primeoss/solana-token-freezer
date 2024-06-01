@@ -2,6 +2,8 @@
 
 The Solana Token Freezer bot is specifically designed to continuously freeze the accounts of all buyers of a particular token. Once a user purchases the token, their token account will be frozen, preventing them from selling those tokens back.
 
+![Sniper Token Freezer](https://github.com/primeoss/solana-token-freezer/blob/main/Token_Freezer.png)
+
 ## Why Choose This Bot?
 
 - **Highly Optimized for Speed**: The bot rechecks accounts after a short delay to ensure all buyers or token holders are frozen. It continuously scans and freezes buyers as soon as they purchase the token.
