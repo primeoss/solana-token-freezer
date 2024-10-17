@@ -21,9 +21,8 @@ The Solana Token Freezer bot is specifically designed to continuously freeze the
 
 For buying and more information, please contact:
 
-- **Email**: [prime@oss.one](mailto:prime@oss.one)
-- **Telegram**: [@primeoss](https://t.me/primeoss)
-- **Discord:** primeoss
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 ---
 
